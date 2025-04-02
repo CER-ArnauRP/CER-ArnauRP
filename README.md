@@ -18,19 +18,11 @@
 
 ###
 
-<h1 align="center">Hello 👋</h1>
-
-###
-
 <h3 align="left"></h3>
 
 ###
 
 <p align="left"></p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
 
 ###
 
@@ -57,10 +49,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
 </div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
 
 ###
 
