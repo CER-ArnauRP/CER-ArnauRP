@@ -1,10 +1,10 @@
-<div align="left">
+<div align="center">
   <img height="100" src="https://2.gravatar.com/avatar/f068bb0212bd98bdad56d1e6adb96777f871d9eb11e075cdec707fc281c81345?size=512"  />
 </div>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.youtube.com/@arnaurodriguezpujals6236/featured" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
@@ -12,7 +12,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=CER-ArnauRP.CER-ArnauRP&"  />
 </div>
 
