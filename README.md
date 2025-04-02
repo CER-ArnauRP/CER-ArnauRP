@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <img height="100" src="https://2.gravatar.com/avatar/f068bb0212bd98bdad56d1e6adb96777f871d9eb11e075cdec707fc281c81345?size=512"  />
 </div>
 
