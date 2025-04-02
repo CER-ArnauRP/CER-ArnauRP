@@ -5,28 +5,6 @@
 ###
 
 <div align="center">
-  <a href="https://www.youtube.com/@arnaurodriguezpujals6236/featured" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=CER-ArnauRP.CER-ArnauRP&"  />
-</div>
-
-###
-
-<h3 align="left"></h3>
-
-###
-
-<p align="left"></p>
-
-###
-
-<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
@@ -54,6 +32,20 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CER-ArnauRP&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://www.youtube.com/@arnaurodriguezpujals6236/featured" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=CER-ArnauRP.CER-ArnauRP&"  />
 </div>
 
 ###
